@@ -1,2 +1,2 @@
 # Video-Player
-First website to be made on HTML5, instead of Scratch 2, or Turbowarp.
+Welcome to my video player! In this player, you can play .mp4, .webm, .mov, .mkn files.
